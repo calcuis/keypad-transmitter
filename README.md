@@ -2,9 +2,9 @@
 
 This Python code uses the `tkinter` library to create a simple graphical user interface (GUI) for a keypad entry system. Here's a breakdown of what the code does:
 
-Import the `tkinter` library: from tkinter import * imports all the classes and functions from the tkinter library.
+Import the `tkinter` library: from tkinter import * imports all the classes and functions from the `tkinter` library.
 
-Create the main application window: `root = Tk()` initializes the main tkinter window.
+Create the main application window: `root = Tk()` initializes the main `tkinter` window.
 
 Set the window size and title: `root.geometry("160x180")` sets the window dimensions to 160 pixels in width and 180 pixels in height, and `root.title("key")` sets the window title to "key."
 
